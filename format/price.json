@@ -1,0 +1,13 @@
+{
+    "companyInformation": {
+        "nameFull": "FULL NAME",
+        "ticker": "TICKER"
+    }, "priceInformation": {
+        "p": "PRICE",
+        "c": "CHANGE ($)",
+        "cp": "CHANGE (%)"
+    }, "paths": {
+        "companyInformationPath": "info/{key}",
+        "priceInformationPath": "info/quote/{key}"
+    }
+}

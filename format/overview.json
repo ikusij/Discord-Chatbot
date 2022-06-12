@@ -1,0 +1,27 @@
+{
+    "leftColumn": {
+        "marketCap": "MARKET CAP",
+        "revenue": "REVENUE (TTM)",
+        "netIncome": "NET INCOME (TTM)",
+        "sharesOut": "SHARES OUT",
+        "eps": "EPS (TTM)",
+        "peRatio": "PE RATIO",
+        "dividend": "DIVIDEND",
+        "exDividendDate": "EX-DIVIDEND DATE",
+        "beta": "BETA",
+        "forwardPE": "FORWARD PE",
+        "analysts": "ANALYSTS",
+        "earningsDate": "EARNINGS DATE"
+    }, "rightColumn": {
+        "v": "VOLUME",
+        "o": "OPEN",
+        "cl": "PREVIOUS CLOSE",
+        "l": "DAY'S LOW",
+        "h": "DAY'S HIGH",
+        "l52": "52-WEEK LOW",
+        "h52": "52-WEEK HIGH"
+    }, "paths": {
+        "leftColumnPath": "data/{key}",
+        "rightColumnPath": "info/quote/{key}"
+    }
+}
